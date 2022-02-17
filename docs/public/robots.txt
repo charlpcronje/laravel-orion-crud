@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://orion-docs.devserv.me/sitemap.xml.gz
